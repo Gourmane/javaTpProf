@@ -1,0 +1,8 @@
+# NetBeans generated output
+build/
+dist/
+nbproject/private/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
